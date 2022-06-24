@@ -1,0 +1,26 @@
+Date and Time:2022/02/22 20:05:44
+Account Number:324
+Account Type:Savings
+Amount to be Deposited or Withdraw1000
+Amount before Transaction5000
+Amount after Transaction is:6000
+Transaction Status:Success
+
+
+Date and Time:2022/02/22 20:09:36
+Account Number:342213
+Account Type:Savings
+Amount to be Deposited or Withdraw60000
+Amount before Transaction5000
+Amount after Transaction is:0
+Transaction Status:InsufficientBalance
+
+
+Amount is not sufficient for this transactionDate and Time:2022/02/22 20:13:52
+Account Number:34523
+Account Type:Current
+Amount to be Deposited or Withdraw60000
+Amount before Transaction5000
+Amount after Transaction is:0
+Transaction Status:InsufficientBalance
+Amount is not sufficient for this transaction
